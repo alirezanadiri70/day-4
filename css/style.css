@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Moul');
+body{
+    font-family: 'Moul', cursive;
+}
+
+.container-fluid {
+  background-color: grey;
+}
+​
+​
+@media (max-width: 588px) {
+  .container-fluid {
+    background-color: pink;
+  }
+}
